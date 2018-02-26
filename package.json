@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Simple logging middleware for Koa, with colours!",
   "main": "logger.js",
+  "types": "logger.d.ts",
   "scripts": {
     "test": "standard"
   },
