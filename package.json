@@ -1,6 +1,6 @@
 {
   "name": "koa-chalk-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple logging middleware for Koa, with colours!",
   "main": "logger.js",
   "types": "logger.d.ts",
